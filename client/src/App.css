@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.new-author {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  margin: 0px 25%;
+}
+
+.purple-text {
+  color: purple
+}
+
+.red-text {
+  color: red
+}
